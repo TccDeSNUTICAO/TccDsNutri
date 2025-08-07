@@ -1,0 +1,30 @@
+ 	Tecnologias Aplicadas à Saúde
+As tecnologias digitais estão cada vez mais presentes na área da saúde, tanto no suporte ao diagnóstico e tratamento quanto na promoção da educação e da conscientização da população. O uso de sites, plataformas virtuais e ferramentas interativas tem se mostrado eficiente na disseminação de informações e na criação de ambientes acessíveis e seguros, especialmente no cuidado com doenças crônicas como a Doença Renal Crônica (DRC).
+
+ 	Sites e plataformas educativas
+Sites e plataformas digitais educativas são ferramentas fundamentais no processo de conscientização e no apoio ao autocuidado. Por meio delas, é possível fornecer informações de qualidade sobre prevenção, sintomas, tratamentos e hábitos saudáveis de maneira clara, acessível e contínua.
+Essas plataformas são desenvolvidas com o uso de linguagens e tecnologias como HTML, CSS e JavaScript, que estruturam, estilizam e dão interatividade ao conteúdo. Além disso, frameworks modernos como React permitem criar interfaces mais rápidas, adaptáveis e organizadas, o que melhora a navegação e a experiência do usuário.
+Outra opção prática para profissionais de saúde que desejam compartilhar conteúdo com seus pacientes é o uso de CMS (Content Management Systems) como WordPress. Eles facilitam a publicação de textos, vídeos e imagens sem a necessidade de conhecimento técnico avançado.
+Essas ferramentas promovem um ambiente educativo digital que pode incluir jogos, vídeos interativos, áreas de perguntas frequentes e outros recursos multimídia, tornando a informação mais atrativa e fácil de entender.
+
+ 	Acessibilidade digital
+Para que a informação em saúde atinja o maior número de pessoas possível, é essencial que os ambientes virtuais sejam acessíveis. A acessibilidade digital garante que pessoas com limitações físicas, cognitivas ou sensoriais consigam navegar, compreender e interagir com o conteúdo disponível nos sites e plataformas.
+No Brasil, existem diretrizes como o Modelo eMAG (Acessibilidade em Governo Eletrônico), baseado nas recomendações internacionais da WCAG (Web Content Accessibility Guidelines). Essas diretrizes orientam os desenvolvedores sobre boas práticas como:
+Uso de textos alternativos em imagens;
+Contraste adequado entre fundo e texto;
+Fontes de tamanho ajustável;
+Compatibilidade com leitores de tela;
+Navegação por teclado.
+Considerando o público com DRC, que pode apresentar limitações devido ao tratamento prolongado, fadiga ou idade avançada, a adoção de práticas de acessibilidade torna o conteúdo mais inclusivo e promove a equidade no acesso à informação.
+
+	UX e UI em ambientes educacionais
+O design dos ambientes virtuais precisa ser pensado para proporcionar uma boa experiência do usuário (UX) e uma interface visual clara e amigável (UI). Esses dois conceitos são complementares e essenciais para que os usuários se sintam confortáveis ao navegar pelo site e consigam absorver o conteúdo com facilidade.
+A UX se refere à experiência completa da pessoa ao interagir com o sistema: a facilidade em encontrar informações, a fluidez da navegação, o tempo de carregamento e até a forma como o conteúdo é organizado. Já a UI diz respeito à parte visual do site — cores, ícones, botões e disposição dos elementos na tela.
+Em projetos voltados ao público infantil, como filhos de pessoas com DRC ou crianças em fase de aprendizado sobre saúde, é importante adotar um design responsivo, com cores vibrantes, linguagem simples, personagens ilustrativos e elementos interativos. Isso torna o aprendizado mais atrativo e facilita a assimilação de informações.
+O uso de UX e UI bem aplicados nos ambientes educacionais contribui para aumentar o engajamento dos usuários, melhorar a compreensão das informações e fortalecer a autonomia no cuidado com a própria saúde.
+
+
+
+Bibliografia:
+BRASIL. Cartilha de Acessibilidade na Web: Diretrizes para acessibilidade em sítios de governo eletrônico. eMAG – Modelo de Acessibilidade em Governo Eletrônico. Brasília: Ministério do Planejamento, 2017. Disponível em: https://www.gov.br/governodigital/pt-br/acessibilidade. Acesso em: 17 jul. 2025.
+SILVA, F. T. M.; KUBRUSLY, M.; AUGUSTO, K. L. Uso da tecnologia no ensino em saúde – perspectivas e aplicabilidades. Revista Eletrônica de Comunicação, Informação e Inovação em Saúde, v. 16, n. 2, 30 jun. 2022. Disponível em:https://homologacao-reciis.icict.fiocruz.br/index.php/reciis/article/view/3249?. Acesso em:17 Jul.2025
